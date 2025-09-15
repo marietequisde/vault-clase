@@ -1,8 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Mis apuntes de clase
 ---
-
-Hello world!
-
-Write some words here!
-holaaaaaaaaa
+A estudiar.
